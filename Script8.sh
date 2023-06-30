@@ -1,0 +1,7 @@
+
+#!/bin/bash
+a=10
+b=20
+
+val1=expr $a+$b
+echo "a+b :$val1"
